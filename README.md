@@ -10,8 +10,8 @@ pip install opencv-python numpy
 
 ### Clone the Repository
 ```
-git clone https://github.com/your-username/speed-detection-opencv.git 
-cd speed-detection-opencv
+git clone https://github.com/your-username/speed_detection.git 
+cd speed_detection
 ```
 ### Run the Script
 ```
